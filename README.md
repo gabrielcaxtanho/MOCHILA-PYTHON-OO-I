@@ -1,7 +1,7 @@
-<h1>🐍MUNDO 00 🐍<h1>
-️<h3>⚠️ O objetivo dessa Mochila e armazenar conhecimentos e usar para futuros exemplos voltados a codigos orientado a objetos com um exemplo do mundo orientado a objetos aplicado em uma conta bancaria!⚠️<h3>
+<h1>🐍 MUNDO 00 🐍<h1>
+️<h3>📦 O objetivo dessa Mochila e armazenar conhecimentos e usar para futuros exemplos voltados a codigos orientado a objetos com um exemplo do mundo orientado a objetos aplicado em uma conta bancaria!📦<h3>
   
-<h5>📜 O codigo define uma classe chamada Conta, que representa uma conta bancária com vários métodos para gerenciar e manipular informações da conta. Vou resumir os principais componentes e funcionalidades da classe:
+<h5>📁 O codigo define uma classe chamada Conta, que representa uma conta bancária com vários métodos para gerenciar e manipular informações da conta. Vou resumir os principais componentes e funcionalidades da classe:
 <br>
 <br>
  <br>
@@ -64,10 +64,10 @@
    <br>
   <br>
   
-📜 A classe encapsula as informações e operações da conta usando princípios de programação orientada a objetos. Ela garante a encapsulação dos dados usando atributos privados e fornece métodos para interagir com a conta, como depósitos, saques, transferências e verificação de saldo. As propriedades limite e get_saldo oferecem acesso controlado a esses atributos.
+📁 A classe encapsula as informações e operações da conta usando princípios de programação orientada a objetos. Ela garante a encapsulação dos dados usando atributos privados e fornece métodos para interagir com a conta, como depósitos, saques, transferências e verificação de saldo. As propriedades limite e get_saldo oferecem acesso controlado a esses atributos.
  <br>
   <br>
-📜 O método estático codigos_bancos fornece informações relacionadas a códigos de bancos, mas não interage com dados específicos da instância, demonstrando o uso cuidadoso de métodos estáticos em um contexto orientado a objetos.
+📁 O método estático codigos_bancos fornece informações relacionadas a códigos de bancos, mas não interage com dados específicos da instância, demonstrando o uso cuidadoso de métodos estáticos em um contexto orientado a objetos.
  <br>
   <br>
-📜 O código demonstra princípios de encapsulamento, abstração e polimorfismo, que são centrais para a programação orientada a objetos. Vale ressaltar que, embora o código fornecido seja um exemplo funcional, existem alguns erros de digitação e problemas de estilo que podem ser corrigidos para maior clareza e consistência.<h5>
+📁 O código demonstra princípios de encapsulamento, abstração e polimorfismo, que são centrais para a programação orientada a objetos. Vale ressaltar que, embora o código fornecido seja um exemplo funcional, existem alguns erros de digitação e problemas de estilo que podem ser corrigidos para maior clareza e consistência.<h5>
