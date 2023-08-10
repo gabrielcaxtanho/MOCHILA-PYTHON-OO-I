@@ -1,5 +1,5 @@
 <h1>🐍MUNDO 00 🐍<h1>
-️<h3>⚠️ O objetivo dessa Mochila e armazenar conhecimentos e usar para futuros exemplos voltados a codigos orientado a objetos com um exemplo de uma conta bancaria!⚠️<h3>
+️<h3>⚠️ O objetivo dessa Mochila e armazenar conhecimentos e usar para futuros exemplos voltados a codigos orientado a objetos com um exemplo do mundo orientado a objetos aplicado em uma conta bancaria!⚠️<h3>
   
 <h5>📜 O codigo define uma classe chamada Conta, que representa uma conta bancária com vários métodos para gerenciar e manipular informações da conta. Vou resumir os principais componentes e funcionalidades da classe:
 <br>
@@ -17,55 +17,50 @@
   <br>
   <br>
 <br>
- <br>
+  🔧 Inicializador (__init__):
   <br>
 <br>
-  
-🔧 Inicializador (__init__):
-<br>
-Inicializa a conta com os valores fornecidos para numero, titular, saldo e limite.
+🔸 Inicializa a conta com os valores fornecidos para numero, titular, saldo e limite.
 <br>
 <br>
-   <br>
-  <br>
 <br>
 🔧 Métodos:
 <br>
 <br>
-extrato(): Imprime o saldo da conta e o nome do titular.
+🔸 extrato(): Imprime o saldo da conta e o nome do titular.
 <br>
   <br>
-deposita(valor): Adiciona o valor ao saldo da conta.
+🔸 deposita(valor): Adiciona o valor ao saldo da conta.
 <br>
   <br>
-pode_sacar(valor_a_sacar): Verifica se é possível realizar um saque de valor_a_sacar considerando o saldo da conta e o limite de cheque especial.
+🔸 pode_sacar(valor_a_sacar): Verifica se é possível realizar um saque de valor_a_sacar considerando o saldo da conta e o limite de cheque especial.
 <br>
   <br>
-saca(valor): Realiza um saque de valor da conta se o saque for permitido.
+🔸 saca(valor): Realiza um saque de valor da conta se o saque for permitido.
 <br>
   <br>
-transfere(valor, destino): Transfere valor da conta para outra conta (destino).
+🔸 transfere(valor, destino): Transfere valor da conta para outra conta (destino).
 <br>
   <br>
-pagamento(valor, destino): Deposita valor em outra conta (destino) como um pagamento.
+🔸 pagamento(valor, destino): Deposita valor em outra conta (destino) como um pagamento.
 <br>
   <br>
-get_saldo(): Retorna o saldo atual da conta.
+🔸 get_saldo(): Retorna o saldo atual da conta.
 <br>
   <br>
-get_titular(): Retorna o nome do titular da conta.
+🔸 get_titular(): Retorna o nome do titular da conta.
 <br>
   <br>
-limite: Uma propriedade que retorna o limite de cheque especial.
+🔸 limite: Uma propriedade que retorna o limite de cheque especial.
 <br>
   <br>
-limite(limite): Um definidor que atualiza o limite de cheque especial.
+🔸 limite(limite): Um definidor que atualiza o limite de cheque especial.
 <br>
   <br>
-Método Estático (codigos_bancos):
+🔸 Método Estático (codigos_bancos):
 <br>
   <br>
-Um método estático que retorna um dicionário de códigos de bancos.
+🔸 Um método estático que retorna um dicionário de códigos de bancos.
    <br>
   <br>
   
